@@ -1,0 +1,15 @@
+{
+  "name": "javascript_files",
+  "version": "1.0.0",
+  "description": "",
+  "main": "practice.js",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "lite-server"
+  },
+  "author": "",
+  "license": "ISC"
+}
